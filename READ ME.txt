@@ -1,0 +1,7 @@
+1. Please create a database named registrationdb in phpmyadmin.
+2. After creating the registrationdb database in phpmyadmin, import the registrationdb.sql file into it.
+3. Open BookClubFront.php for registration.
+4. If registration successful, you will be able to see the homepage which is index.php.
+5. Otherwise, You will be led to the registration fail page that is Registration.php. 
+6. If you also give the existing email address or if the password does not match with the confirm password, it will also show some error messages and lead you to the Registration.php page. 
+7. If you register successfully, it will lead you to LoginInfo.php page for the further username and password confirmation. 
